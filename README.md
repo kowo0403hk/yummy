@@ -55,4 +55,22 @@ Or, run this on a new terminal:
 
 ## Product outlook
 
-![]()
+Home Page:
+![Home Page](https://github.com/kowo0403hk/yummy/blob/master/docs/Pizza-Home.png?raw=true)
+
+Order Page:
+![Order Page](https://github.com/kowo0403hk/yummy/blob/master/docs/Pizza-Order.png?raw=true)
+
+Order List:
+![Order History](https://github.com/kowo0403hk/yummy/blob/master/docs/Pizza-History.png?raw=true)
+
+Owner receives an order:
+![Owner receives order](https://github.com/kowo0403hk/yummy/blob/master/docs/Owner-receive-order.png?raw=true)
+
+Owner replies with time needed:
+![Owner reply](https://github.com/kowo0403hk/yummy/blob/master/docs/Owner-reply-with-time.png?raw=true)
+
+Customer receives notice:
+![Customer notice](https://github.com/kowo0403hk/yummy/blob/master/docs/Customer-receive-notice.png?raw=true)
+
+## **Enjoy!**
